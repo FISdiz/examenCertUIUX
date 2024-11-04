@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40">
+  <!-- Marco exterior con bordes biselados -->
+  <path 
+    d="M5 5 L95 5 L115 20 L95 35 L5 35 L15 20 Z" 
+    fill="none" 
+    stroke="#ff00de" 
+    stroke-width="1.5"
+  />
+  
+  <!-- Letra E estilizada -->
+  <path 
+    d="M30 12 L80 12 L85 20 L80 28 L30 28" 
+    fill="none" 
+    stroke="#00fff2" 
+    stroke-width="1.5"
+  />
+  
+  <!-- Líneas horizontales de la E -->
+  <line x1="30" y1="20" x2="75" y2="20" stroke="#00fff2" stroke-width="1.5"/>
+  
+  <!-- Detalles geométricos simples -->
+  <line x1="20" y1="20" x2="25" y2="20" stroke="#ff00de" stroke-width="1.5"/>
+  <line x1="90" y1="20" x2="95" y2="20" stroke="#ff00de" stroke-width="1.5"/>
+</svg>

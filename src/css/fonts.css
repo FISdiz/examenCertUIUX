@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'Blender Pro';
+    src: url('../fonts/BlenderPro-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blender Pro';
+    src: url('../fonts/BlenderPro-ThinItalic.woff2') format('woff2');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Blender Pro';
+    src: url('../fonts/BlenderPro-Heavy.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blender Pro Book';
+    src: url('../fonts/BlenderPro-BookItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Blender Pro Book';
+    src: url('../fonts/BlenderPro-Book.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blender Pro';
+    src: url('../fonts/BlenderPro-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blender Pro';
+    src: url('../fonts/BlenderPro-Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blender Pro';
+    src: url('../fonts/BlenderPro-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Blender Pro';
+    src: url('../fonts/BlenderPro-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Aplicación global de la fuente */
+body {
+    font-family: 'Blender Pro', sans-serif;
+}
+
+/* Clases de utilidad para los diferentes estilos */
+.font-thin {
+    font-weight: 100;
+}
+
+.font-medium {
+    font-weight: 500;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.font-heavy {
+    font-weight: 900;
+}
+
+.font-book {
+    font-family: 'Blender Pro Book', 'Blender Pro', sans-serif;
+}
+
+.font-italic {
+    font-style: italic;
+}

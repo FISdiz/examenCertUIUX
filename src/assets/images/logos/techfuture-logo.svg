@@ -1,0 +1,29 @@
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo del logo con biselado -->
+  <path d="M10,0 L110,0 L120,10 L120,30 L110,40 L10,40 L0,30 L0,10 Z" 
+        fill="#1a1a1a"/>
+  
+  <!-- Borde con efecto neón -->
+  <path d="M10,1 L109,1 L119,11 L119,29 L109,39 L10,39 L1,29 L1,11 Z" 
+        fill="none" 
+        stroke="#0dcaf0" 
+        stroke-width="1"/>
+
+  <!-- Texto "TECH" -->
+  <text x="15" y="25" 
+        font-family="'Blender Pro', sans-serif" 
+        font-size="18" 
+        fill="#ffffff">TECH</text>
+  
+  <!-- Texto "FUTURE" con efecto cyberpunk -->
+  <text x="55" y="25" 
+        font-family="'Blender Pro', sans-serif" 
+        font-size="18" 
+        fill="#ffff00">FUTURE</text>
+  
+  <!-- Año -->
+  <text x="90" y="35" 
+        font-family="'Blender Pro', sans-serif" 
+        font-size="12" 
+        fill="#0dcaf0">2025</text>
+</svg>
